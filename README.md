@@ -288,7 +288,7 @@ The Streamlit dashboard provides:
 
 **Karan Karale**
 
-Senior GenAI Tech Lead
+Generative AI Engineer
 
 LinkedIn: https://www.linkedin.com/in/karankarale
 
